@@ -1,0 +1,37 @@
+body{
+    background-image: url(register.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+
+}
+h1 {
+        
+    color:forestgreen;
+    font-size: 50px;
+    text-align: center;
+    margin-top: auto;
+    border:goldenrod 2px double;
+    background-color: silver;
+    padding: 0px;
+    }
+
+#form{
+    color: black;    
+}
+
+button{
+    background: green;
+    border: 2px solid goldenrod;
+    border-radius: 3px;
+    font: 700 20px Helvetica,Arial;
+    height: 30px;
+    line-height: 28px;
+    padding: 0 20px;
+    text-align: center;
+    margin-right: 10px;
+    box-sizing: border-box;
+    cursor: not-allowed;
+    
+}
+
